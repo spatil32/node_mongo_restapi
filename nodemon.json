@@ -1,5 +1,6 @@
 {
 	"env": {
-		"MONGO_PWD": "FrgSzuN6Zf7TSF5"
+		"MONGO_PWD": "FrgSzuN6Zf7TSF5",
+		"JWT_KEY": "secret"
 	}
 }
